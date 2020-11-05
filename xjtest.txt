@@ -5,3 +5,6 @@ sdfsdfs
 branch naojunewlineaaabbbccc
 111222333
 branch nxiaojunewline
+
+aaaaaa
+zzzzzz
