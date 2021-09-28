@@ -37,7 +37,8 @@ $(document).ready(function(
 |a|b|
 |c|d|
 
-
+- [ ] 小军
+- [x] 成立
 
 
 
