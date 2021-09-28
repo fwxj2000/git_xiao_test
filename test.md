@@ -29,8 +29,13 @@ $(document).ready(function(
 ))
 ````
 [菜鸟教程](http://www.sohu.com)  
-![菜鸟图标](http://github.com/fwxj2000/git_xiao_test/星球.jpg)
+![菜鸟图标](http://static.runoob.com/images/runoob-logo.png)
 
+|表头|表头|
+|:--|--:|
+|e|f|
+|a|b|
+|c|d|
 
 
 
